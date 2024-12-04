@@ -1,0 +1,2 @@
+veces que gano jugador : 15
+veces que gano ia : 15
